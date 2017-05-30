@@ -151,4 +151,18 @@ section{
     justify-content: center;
   }
 
+  #main_nav{
+    width: 50%
+  }
+
+  #main_content div{
+    display: flex;
+    flex-direction: column;
+
+  }
+
+  #main_content ul{
+    width: 60%
+  }
+
 }

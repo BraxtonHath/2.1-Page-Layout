@@ -158,11 +158,7 @@ section{
   #main_content div{
     display: flex;
     flex-direction: column;
-
-  }
-
-  #main_content ul{
-    width: 60%
-  }
+    width: 50%;
+}
 
 }
